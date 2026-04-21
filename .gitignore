@@ -1,0 +1,5 @@
+Datasets/LaRS/
+Datasets/LaRS_fusion/
+Datasets/val/
+*.pth
+*.pt
